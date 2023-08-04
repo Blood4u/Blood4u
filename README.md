@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blood4u
+- 👋 Hi, I’m @Radu-Stefan Budau
 - 👀 I’m interested in anything gaming related,happy to learn more about this domain and help in this regard.
 - 🌱 I’m currently learning Java in order to better understand OOP as a whole and expand my portofolio.
 - 💞️ I’m looking to collaborate on anything that is related to projects in regards to gaming.
